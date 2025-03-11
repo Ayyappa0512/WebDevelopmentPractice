@@ -1,0 +1,107 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    margin: 0;
+    color: #000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header svg{
+    height: 28px;
+    width: 60px;
+}
+
+header {
+    height: auto;
+    padding-bottom: 0;
+    padding-top: 20px;
+    font-size: 16px;
+}
+.primary {
+    border-bottom: 1px solid darkblue;
+}
+.logo {
+    float: left;
+    display: block;
+    margin-left: 20px;
+}
+.primary ul {
+    padding-left: 0;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.primary ul li {
+    list-style: none;
+    display: inline-block;
+    padding-right: 20px;
+    align-items: center;
+    align-content: center;
+}
+
+.more_btn,.about {
+    color: #FF764D;
+}
+
+.login {
+    order: 2;
+    font-size: 14px;
+}
+
+.liveclass {
+    order:1;
+    font-size: 14px;
+    color: #00f;
+    margin-left: auto;
+}
+
+.secondary {
+    padding: 20px;
+    font-size: 14px;
+}
+
+.secondary ul {
+    padding: 0;
+}
+
+.secondary ul li {
+    list-style: none;
+    display: inline-block;
+    padding-right: 20px;
+    vertical-align: middle;
+}
+
+.body {
+    height: auto;
+    padding-left: 5px;
+    padding-bottom: 0;
+}
+
+.body img {
+    height: 250px;
+    width: 250px;
+}
+
+footer {
+    padding-left: 5px;
+    padding: 95px;
+    padding-bottom: 0;
+    border-top: 1px solid darkblue;
+}
+
+.footer{
+    padding-top: 95px;
+}
+
+.footerlogo {
+    width: 100%;
+}
+
+.footerlogo  img{
+    height: 80px;
+    width: 150px;
+}
+.footer div,.footer ul{
+    display: inline-block;
+}
+
