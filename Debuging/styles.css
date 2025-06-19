@@ -1,0 +1,10 @@
+.debug{
+    background-color: aquamarine;
+    align-content: center;
+    text-align: center;
+    color: rgb(20, 140, 220);
+    font-size: 75px;
+    font-weight: 900;
+    font-style: italic;
+    height: 100vh;
+}
